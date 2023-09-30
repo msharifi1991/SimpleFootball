@@ -23,8 +23,8 @@ The project consists of the following scripts:
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
-<img src = "Images/SimpleFootball2.png" height = "200" width = "300"/>
-<img src = "Images/SimpleFootball3.png" width = "300"/>
-<img src = "Images/SimpleFootball4.png" width = "300"/>
+<img src = "Images/SimpleFootball2.png" height = "170" width = "300"/>
+<img src = "Images/SimpleFootball3.png" height = "170" width = "300"/>
+<img src = "Images/SimpleFootball4.png" height = "170" width = "300"/>
 
 </div>
