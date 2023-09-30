@@ -24,4 +24,5 @@ The project consists of the following scripts:
 ## Screenshots
 
 ![Gameplay Screenshot](Images/SimpleFootball2.png)
+![Gameplay Screenshot](Images/SimpleFootball4.png)
 ![Score Screen Screenshot](Images/SimpleFootball3.png)
